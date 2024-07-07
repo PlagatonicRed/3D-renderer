@@ -1,2 +1,2 @@
 # Projects
-A collection of coding projects that i've done or worked on
+A collection of coding projects that I'm either working on or have worked on.
