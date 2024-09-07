@@ -1,2 +1,4 @@
-# Projects
-A collection of coding projects that I'm either working on or have worked on.
+# How to run
+Download the repository
+Navigate to 3D renderer/Build
+Run the executable
